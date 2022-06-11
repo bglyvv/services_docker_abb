@@ -80,7 +80,7 @@ In the <b>Timestamp</b> service I get current time with the help of the followin
 
 # Docker part
 ## Build and run Timestamp service
-First I have build my Timestamp service:
+First I have built my Timestamp service:
 <br/>
 <p align="center">
   <img src="screenshots/service2_build.png" style="width:600px"/>
@@ -92,7 +92,7 @@ Then I have run this service:
 </p>
 
 ## Build and run User service
-First I have build my User service:
+First I have built my User service:
 <br/>
 <p align="center">
   <img src="screenshots/service1_build.png" style="width:600px"/>
